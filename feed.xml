@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://mufuzi.github.org/iyasupport/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://mufuzi.github.org/iyasupport/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://jmufugi.github.org/iyasupport/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://jmufugi.github.org/iyasupport/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>IyaSchool Platform</title>
 		<description>An online school management platform. The site provides a range of school administration functionality including student and staff records, student attendance management, exam/test management, class  timetables, messages/notices, and so on.</description>
-		<link>https://mufuzi.github.org/iyasupport/</link>
-		<atom:link href="https://mufuzi.github.org/iyasupport/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://jmufugi.github.org/iyasupport/</link>
+		<atom:link href="https://jmufugi.github.org/iyasupport/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>

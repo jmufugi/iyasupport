@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://mufuzi.github.org/iyasupport/sitemap.xml
+Sitemap: https://jmufugi.github.org/iyasupport/sitemap.xml
