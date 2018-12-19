@@ -1,7 +1,7 @@
 /* TEAM */
 
 Name: J Mufugi
-Site: https://mufuzi.github.org/masi-labs
+Site: https://mufuzi.github.io/masi-labs
 Twitter: @masi-labs
 
 

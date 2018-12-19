@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://jmufugi.github.io/iyasupport/</id>
 	<title>IyaSchool Platform</title>
-	<updated>2018-12-19T11:42:10+02:00</updated>
+	<updated>2018-12-19T12:22:24+02:00</updated>
 
 	<subtitle>An online school management platform. The site provides a range of school administration functionality including student and staff records, student attendance management, exam/test management, class  timetables, messages/notices, and so on.</subtitle>
 
@@ -16,7 +16,7 @@
 			
 			
 			
-				<uri>https://mufuzi.github.org/masi-labs</uri>
+				<uri>https://mufuzi.github.io/masi-labs</uri>
 			
 		</author>
 	
