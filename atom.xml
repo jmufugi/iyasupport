@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/</id>
+	<id>https://mufuzi.github.org/iyasupport/</id>
 	<title>IyaSchool Platform</title>
-	<updated>2018-12-18T21:47:31+02:00</updated>
+	<updated>2018-12-19T10:41:11+02:00</updated>
 
 	<subtitle>An online school management platform. The site provides a range of school administration functionality including student and staff records, student attendance management, exam/test management, class  timetables, messages/notices, and so on.</subtitle>
 
@@ -21,8 +21,8 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+	<link href="https://mufuzi.github.org/iyasupport/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://mufuzi.github.org/iyasupport/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
