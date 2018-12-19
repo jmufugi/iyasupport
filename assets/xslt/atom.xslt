@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://mufuzi.github.org/iyasupport/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://jmufugi.github.org/iyasupport/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://mufuzi.github.org/iyasupport/assets/js/modernizr.min.js"></script>
+	<script src="https://jmufugi.github.org/iyasupport/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="https://mufuzi.github.org/iyasupport/assets/xslt/atom.xslt">
+	<link rel="canonical" href="https://jmufugi.github.org/iyasupport/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="An online school management platform. The site provides a range of school administration functionality including student and staff records, student attendance management, exam/test management, class  timetables, messages/notices, and so on.">
-	<meta property="og:url" content="https://mufuzi.github.org/iyasupport/assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://jmufugi.github.org/iyasupport/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="IyaSchool Platform">
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="https://mufuzi.github.org/iyasupport/humans.txt">
+	<link type="text/plain" rel="author" href="https://jmufugi.github.org/iyasupport/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://mufuzi.github.org/iyasupport/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="https://jmufugi.github.org/iyasupport/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://mufuzi.github.org/iyasupport/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="https://jmufugi.github.org/iyasupport/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://mufuzi.github.org/iyasupport/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://jmufugi.github.org/iyasupport/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://mufuzi.github.org/iyasupport/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://jmufugi.github.org/iyasupport/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://mufuzi.github.org/iyasupport/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://jmufugi.github.org/iyasupport/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://mufuzi.github.org/iyasupport/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://jmufugi.github.org/iyasupport/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://mufuzi.github.org/iyasupport/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://jmufugi.github.org/iyasupport/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://mufuzi.github.org/iyasupport/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://jmufugi.github.org/iyasupport/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://mufuzi.github.org/iyasupport/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://jmufugi.github.org/iyasupport/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://mufuzi.github.org/iyasupport/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://jmufugi.github.org/iyasupport/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://mufuzi.github.org/iyasupport/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="https://jmufugi.github.org/iyasupport/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -106,7 +106,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://mufuzi.github.org/iyasupport" class="icon-tree"> IyaSchool Platform</a></h1>
+      <h1 class="show-for-small-only"><a href="https://jmufugi.github.org/iyasupport" class="icon-tree"> IyaSchool Platform</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -153,7 +153,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://mufuzi.github.org/iyasupport/contact/">Contact</a></li>
+              <li><a  href="https://jmufugi.github.org/iyasupport/contact/">Contact</a></li>
 
             
             
@@ -172,7 +172,7 @@
 
             
             
-              <li><a  href="https://mufuzi.github.org/iyasupport/">Home</a></li>
+              <li><a  href="https://jmufugi.github.org/iyasupport/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -187,7 +187,7 @@
 
             
             
-              <li><a  href="https://mufuzi.github.org/iyasupport/features/">Features</a></li>
+              <li><a  href="https://jmufugi.github.org/iyasupport/features/">Features</a></li>
               <li class="divider"></li>
 
             
@@ -211,17 +211,17 @@
 
                       
 
-                      <li><a  href="https://mufuzi.github.org/iyasupport/setup-guidelines/">Setup Guidelines</a></li>
+                      <li><a  href="https://jmufugi.github.org/iyasupport/setup-guidelines/">Setup Guidelines</a></li>
                     
 
                       
 
-                      <li><a  href="https://mufuzi.github.org/iyasupport/setup-exercise/">Setup Exercise</a></li>
+                      <li><a  href="https://jmufugi.github.org/iyasupport/setup-exercise/">Setup Exercise</a></li>
                     
 
                       
 
-                      <li><a  href="https://mufuzi.github.org/iyasupport/faqs/">Faqs</a></li>
+                      <li><a  href="https://jmufugi.github.org/iyasupport/faqs/">Faqs</a></li>
                     
                   </ul>
 
@@ -247,12 +247,12 @@
 
                       
 
-                      <li><a  href="https://mufuzi.github.org/iyasupport/assets/slides/iyaschool_slides.pdf/">Powerpoint</a></li>
+                      <li><a  href="https://jmufugi.github.org/iyasupport/assets/slides/iyaschool_slides.pdf/">Powerpoint</a></li>
                     
 
                       
 
-                      <li><a  href="https://mufuzi.github.org/iyasupport/screenshots/">Screenshots</a></li>
+                      <li><a  href="https://jmufugi.github.org/iyasupport/screenshots/">Screenshots</a></li>
                     
                   </ul>
 
@@ -271,14 +271,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://mufuzi.github.org/iyasupport/blog/">Blog</a>
+                <a  href="https://jmufugi.github.org/iyasupport/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://mufuzi.github.org/iyasupport/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="https://jmufugi.github.org/iyasupport/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -304,8 +304,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://mufuzi.github.org/iyasupport/" title="IyaSchool Platform – An Online School Management Platform">
-				<img src="https://mufuzi.github.org/iyasupport/assets/img/logo2.png" alt="IyaSchool Platform – An Online School Management Platform">
+			<a id="logo" href="https://jmufugi.github.org/iyasupport/" title="IyaSchool Platform – An Online School Management Platform">
+				<img src="https://jmufugi.github.org/iyasupport/assets/img/logo2.png" alt="IyaSchool Platform – An Online School Management Platform">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -383,7 +383,7 @@
 
             <p class="shadow-black">
               An online school management platform. The site provides a range of school administration functionality including student and staff records, student attendance management, exam/test management, class  timetables, messages/notices, and so on.
-              <a href="https://mufuzi.github.org/iyasupport/info/">More ›</a>
+              <a href="https://jmufugi.github.org/iyasupport/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -403,17 +403,17 @@
               
                 
                   <li >
-                    <a href="https://mufuzi.github.org/iyasupport"  title=""></a>
+                    <a href="https://jmufugi.github.org/iyasupport"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://mufuzi.github.org/iyasupport/contact/"  title="Contact">Contact</a>
+                    <a href="https://jmufugi.github.org/iyasupport/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://mufuzi.github.org/iyasupport/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="https://jmufugi.github.org/iyasupport/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -439,7 +439,7 @@
             
               
                 <li >
-                  <a href="https://mufuzi.github.org/iyasupport"  title=""></a>
+                  <a href="https://jmufugi.github.org/iyasupport"  title=""></a>
                 </li>
             
               
@@ -490,7 +490,7 @@
 
 		
 
-<script src="https://mufuzi.github.org/iyasupport/assets/js/javascript.min.js"></script>
+<script src="https://jmufugi.github.org/iyasupport/assets/js/javascript.min.js"></script>
 
 
 
