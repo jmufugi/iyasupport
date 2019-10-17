@@ -1,470 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 35 links with priority=0.3, changefreq=monthly -->
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/404/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/404.html</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/about/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/blog/archive/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/atom.xml</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/contact/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/demo/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/faqs/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/features/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/feed.xml</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/humans.txt</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/blog/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/powerpoint/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/robots.txt</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/screenshots/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/setup-exercise/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/setup-guidelines/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/sitemap.xml</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/support/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/xxabout/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/changelog/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/design/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/xdocumentation/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/getting-started/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/headers/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/info/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/redirect-page/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/roadmap/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://jmufugi.github.io/iyasupport/search/</loc>
-	
-		<lastmod>2018-12-19T12:22:24+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-
-<!-- Posts: 0 links with priority=0.5, changefreq=monthly -->
-
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/jekyll/update/2019/07/22/welcome-to-jekyll.html</loc>
+<lastmod>2019-07-22T11:29:50+02:00</lastmod>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/jekyll/2015/04/18/welcome-to-jekyll.html</loc>
+<lastmod>2015-04-18T10:43:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/dummy/2015/04/18/dummy6.html</loc>
+<lastmod>2015-04-18T10:43:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/dummy/2015/04/18/dummy5.html</loc>
+<lastmod>2015-04-18T10:43:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/dummy/2015/04/18/dummy4.html</loc>
+<lastmod>2015-04-18T10:43:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/dummy/2015/04/18/dummy3.html</loc>
+<lastmod>2015-04-18T10:43:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/dummy/2015/04/18/dummy2.html</loc>
+<lastmod>2015-04-18T10:43:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/dummy/2015/04/18/dummy.html</loc>
+<lastmod>2015-04-18T10:43:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/404.html</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/about/</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/page/changelog.html</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/page/faqs.html</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/page/features.html</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/posts/</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/page/powerpoint.html</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/page/screenshots.html</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/page/setup-exercise.html</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/page/setup-guidelines.html</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/page/support.html</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/xindex.xhtml</loc>
+</url>
+<url>
+<loc>https://mufuzi.github.io/about-iya/about-iya/assets/slides/iyaschool_slides.pdf</loc>
+<lastmod>2019-06-08T18:05:45+02:00</lastmod>
+</url>
 </urlset>

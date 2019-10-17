@@ -1,9 +1,0 @@
-- DONE powerpoint / screenshots
-- DONE fix contact content
-- fix home content
-- fix about content
-- roadmap
-- search functionality
-- LATER - Add sidebar with links
-- change green menu highlights and links to orange/brown
-- update look and feel of powerpoint slides
