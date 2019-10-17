@@ -158,13 +158,13 @@
 
 <p>You can use <a href="https://highlightjs.org/">highlight.js</a> to add syntax highlight code snippets:</p>
 
-<p>Use the <a href="https://github.com/Shopify/liquid/wiki/Liquid-for-Designers">Liquid</a> <code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">highlight</span><span class="w"> </span><span class="err">&lt;language&gt;</span><span class="w"> </span><span class="err">%</span><span class="p">}</span></code> tag to add syntax highlighting to code snippets.</p>
+<p>Use the <a href="https://github.com/Shopify/liquid/wiki/Liquid-for-Designers">Liquid</a> <code class="highlighter-rouge">{% highlight &lt;language&gt; %}</code> tag to add syntax highlighting to code snippets.</p>
 
 <p>For instance, this template…</p>
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html">{% highlight javascript %}    
 function demo(string, times) {    
-  for (var i = 0; i <span class="nt">&lt; times</span><span class="err">;</span> <span class="na">i</span><span class="err">++)</span> <span class="err">{</span>    
+  for (var i = 0; i <span class="nt">&lt;</span> <span class="nt">times</span><span class="err">;</span> <span class="na">i</span><span class="err">++)</span> <span class="err">{</span>    
     <span class="na">console</span><span class="err">.</span><span class="na">log</span><span class="err">(</span><span class="na">string</span><span class="err">);</span>    
   <span class="err">}</span>    
 <span class="err">}</span>    
@@ -178,7 +178,7 @@ function demo(string, times) {
     <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">string</span><span class="p">);</span>
   <span class="p">}</span>
 <span class="p">}</span>
-<span class="nx">demo</span><span class="p">(</span><span class="s2">"hello, world!"</span><span class="p">,</span> <span class="mi">10</span><span class="p">);</span></code></pre></figure>
+<span class="nx">demo</span><span class="p">(</span><span class="dl">"</span><span class="s2">hello, world!</span><span class="dl">"</span><span class="p">,</span> <span class="mi">10</span><span class="p">);</span></code></pre></figure>
 
 <p>Syntax highlighting is done using <a href="https://highlightjs.org/">highlight.js</a>. You can change the active theme in <a href="https://github.com/bencentra/centrarium/blob/2dcd73d09e104c3798202b0e14c1db9fa6e77bc7/_includes/head.html#L15">head.html</a>.</p>
 
@@ -452,6 +452,42 @@ function demo(string, times) {
         
         
           <li class="nav-link"><a href="/about-iya/page/support.html">support</a>
+        
+        
+        
+        
+        
+          <li class="nav-link"><a href="/about-iya/tag/ipsum/">ipsum</a>
+        
+        
+        
+          <li class="nav-link"><a href="/about-iya/tag/lorem/">lorem</a>
+        
+        
+        
+          <li class="nav-link"><a href="/about-iya/tag/jekyll/">jekyll</a>
+        
+        
+        
+          <li class="nav-link"><a href="/about-iya/tag/welcome/">welcome</a>
+        
+        
+        
+          <li class="nav-link"><a href="/about-iya/category/dummy/">Dummy</a>
+        
+        
+        
+          <li class="nav-link"><a href="/about-iya/category/jekyll/">Jekyll</a>
+        
+        
+        
+          <li class="nav-link"><a href="/about-iya/category/jekyll/">jekyll</a>
+        
+        
+        
+          <li class="nav-link"><a href="/about-iya/category/update/">update</a>
+        
+        
         
         
         
